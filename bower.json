@@ -1,0 +1,13 @@
+{
+  "name": "input-s3",
+  "description": "input file for S3",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "api-s3-upload": "x-element/api-s3-upload"
+  },
+  "keywords": [
+    "web-components",
+    "input",
+    "S3"
+  ]
+}
